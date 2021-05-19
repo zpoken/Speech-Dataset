@@ -31,8 +31,7 @@ We provide **absolutely free to use 150 hours** demos for each part. It is a ran
 | radio\_source\_5 | 25 | 10 786 | 441 | [Radio5\_25h.zip](https://drive.google.com/file/d/1qEsOFMWxFZ4mSvEul2RuaY8JRq075bjZ/) |
 | Ru-films | 25 | 7 358 | 380 | [Ru\_films\_25h.zip](https://drive.google.com/file/d/1Ko5WdTvaxME7XP2k6pNjttoc7dgL4I-x/) |
 | Total | 150 | 77 474 | 2 506 |
- |
-
+ 
  They are hosted on [Gdrive](https://drive.google.com/drive/folders/1PBO_cGd-8wLIaxlmIF7l6XX-CEE7Kl70?usp=sharing) so we provide `./download.sh` to easily get them.
 
 ### Requirements
@@ -45,13 +44,13 @@ Just run `bash download.sh` on your linux machine.
 # Data structure
 You will find the next directory structure, after you unzip each archive.
 
-    +---<DatasetPartName>    
-    | +---data    
+    +---<DatasetPartName>
+    | +---data
     | | +---subfolder1 (optional)
-    | | | +---speech\_file1.opus    
-    | | | +...    
-    | | | \---speech\_file[N].opus    
-    | | +...    
+    | | | +---speech\_file1.opus
+    | | | +...
+    | | | \---speech\_file[N].opus
+    | | +...
     | | +---subfolder[N] (optional)
     | | | +---speech\_file1.opus
     | | | ...
@@ -60,7 +59,7 @@ You will find the next directory structure, after you unzip each archive.
 
 # Get full dataset.
 
-If you are interested in the full version of the dataset feel free to contact us in this form. 
+If you are interested in the full version of the dataset feel free to contact us in this [form](https://forms.gle/zD7JoGg9a9r8WV2J8). 
 Usually we'll answer in one working day.
 
 # Future work
@@ -71,4 +70,5 @@ Usually we'll answer in one working day.
 
 # License
 CC-BY-4.0
+
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">Zpoken Dataset [RU]</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
