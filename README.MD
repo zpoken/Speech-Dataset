@@ -66,7 +66,6 @@ Usually we'll answer in one working day.
 
 - release more hours
 - optimize archive storage (Gdrive is too annoying)
-- share Jupyter notebook to explore the dataset.
 
 # License
 CC-BY-4.0
